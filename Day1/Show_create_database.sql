@@ -28,3 +28,6 @@
 -- check the current user and current database. 
 SELECT USER(),DATABASE();
 
+--for exit from sql
+EXIT
+
