@@ -24,3 +24,7 @@
 +--------------------+
 6 rows in set (0.00 sec)
 
+
+-- check the current user and current database. 
+SELECT USER(),DATABASE();
+
