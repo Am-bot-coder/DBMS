@@ -4,7 +4,6 @@
 | Database           |
 +--------------------+
 | information_schema |
-| mimiciv            |
 | mysql              |
 | performance_schema |
 | sys                |
