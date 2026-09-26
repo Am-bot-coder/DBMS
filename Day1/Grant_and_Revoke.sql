@@ -12,7 +12,7 @@ GRANT ALL PRIVILEGES ON AC_classwork_db.* TO Ayush;
 
 -- .* means all the members of that database like table ,view, functions and all
 -- we can only provide the selected things like .Tables
-eg.
+eg. 
 GRANT SELECT on ac_classwork_db.emp TO dev2;
 
 -- Grant ALL privileges on DATABASE to specific user
